@@ -11,7 +11,7 @@
 
 ## Sample Video
 
-![Cloth Sample Internal Force Sample](https://github.com/yeduk3/LargeStepsInClothSimulation/tree/main/example.mov)) 
+![Cloth Sample Internal Force Sample](https://github.com/yeduk3/LargeStepsInClothSimulation/tree/main/example.gif)) 
 
 ## Comment
 
